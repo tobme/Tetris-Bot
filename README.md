@@ -37,7 +37,7 @@ sudo apt-get install gcc
 ```sh
 sudo apt-get install build-essential
 ```
--SFML
+- SFML
 ```sh
 sudo apt-get install libsfml-dev
 ```
