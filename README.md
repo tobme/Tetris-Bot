@@ -25,7 +25,7 @@ Then a speed is choosen. The speed is how many milliseconds the bot will sleep i
 
 ## Issue
 
-When the project was made i didn't have any knowledge of multithreading. Therefore the game can crash, its more likely if the bot is run at a high speed.
+The game is not thread safe and can crash, its more likely if the bot is run at a high speed.
 
 ## Getting Started
 
